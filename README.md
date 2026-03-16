@@ -1,8 +1,8 @@
  # 📊 Data Analytics Portfolio
 ### Turning Raw Data into Digital Narratives
 
-### I am a Data Analyst focused on the intersection of **technical logic** and **clean aesthetics**. This repository is a curated collection of my work, spanning retail, public health, social impact, and consumer behavior.
-Welcome to my data analytics repository. This space is a curated collection of projects where **logic meets aesthetics**. I specialize in distilling messy, real-world datasets—from retail trends to global health crises—into clean, high-impact visual stories.
+### I am an Aspiring Data Analyst focused on the intersection of **technical logic** and **clean aesthetics**. This repository is a curated collection of my work, spanning retail, public health, social impact, and consumer behavior.
+Welcome to my data analytics repository. This space is a curated collection of projects where **logic meets aesthetics**. I specialize in distilling messy, real-world datasets from retail trends to global health crises—into clean, high-impact visual stories.
 
 ---
 
