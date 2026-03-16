@@ -1,34 +1,35 @@
- # 📊 Data Analytics Portfolio
-### Turning Raw Data into Digital Narratives
-
-Welcome to my data analytics repository. This space is a curated collection of projects where **logic meets aesthetics**. I specialize in distilling messy, real-world datasets—from retail trends to global health crises—into clean, high-impact visual stories.
+# COVID-19 Global Health Dashboard
+### Tracking Mortality, Recovery, and Outbreak Velocity
 
 ---
 
-> **The Vibe:** Data-driven, aesthetic-obsessed, and focused on Visualizing. The goal was high-impact storytelling through data. No fluff, just insights.
+##  Project Overview
+This project is a comprehensive analysis of the global pandemic's impact. By calculating rates of recovery and mortality across various nations, the dashboard identifies "Hot Zones" and assesses the effectiveness of international health responses.
+
+> **The Vibe:** Serious, data-dense, and analytical. Maroon "Urgency" aesthetic.
 
 ---
 
-## The Tech Stack
-I use a mix of industry-standard tools and modern environments to clean, analyze, and visualize data:
-* **Analysis:** Excel (Pivot Tables, Power Query), SQL
-* **Visualization:** Power BI, Tableau, Excel Dashboards
+## Data Storytelling: The Insights
+* **The Global Pulse:** With a **Global Death Rate of 3.97%** and a **Recovery Rate of 57.45%**, the data reveals the significant strain on global healthcare systems during peak periods.
+* **Outlier Analysis:** The dashboard identifies the **US** as having the highest volume of cases, while **Yemen** is noted as the "Safest" in this specific dataset—likely reflecting the intersection of geography and reporting frequency.
+* **Mortality Concentration:** The "Top 10 Countries by Mortality" bar chart shows a staggering lead by the **US and Brazil**, highlighting regions where public health interventions faced the most challenges.
+* **Growth Velocity:** By comparing **Confirmed cases vs. Confirmed last week**, the "Still Growing Fast" chart identifies which countries were still in the exponential phase of the outbreak.
 
 ---
 
-##  Project Roadmap
-
-| Project | Industry | Status |
-| :--- | :--- | :--- |
-| **Sales Analysis Report** | Retail & E-commerce | Completed |
-| **Students Food Prefrences Report** | Consumer Behavior | Completed |
-| **Ramadan Charity Analysis Report** | Social Impact | Completed |
-| **COVID-19 Death Report** | Public Health | Completed |
+## Strategic Roadmap & Recommendations
+1. **Resource Allocation:** International health organizations should prioritize vaccine and oxygen supply chains for the "Top 10 Mortality" countries to bring down the 3.97% global death rate.
+2. **Recovery Optimization:** Analyze the protocols in countries with the highest **Recovery Rates** to create a "Best Practices" blueprint for nations still in the 38% "Active Case" phase.
+3. **Early Warning Systems:** Countries showing a high "Confirmed Last Week" vs. Total ratio should implement immediate localized lockdowns to prevent becoming the next "Dangerous Country" outlier.
+4. **Data Transparency Initiatives:** For regions labeled as "Safest" due to potential under-reporting, NGOs should provide technical aid to improve diagnostic and data-gathering infrastructure.
 
 ---
 
-## The Aesthetic
-Data doesn't have to be boring. Every project in this repo follows a **"Clean & Minimal"** design language. I believe that a dashboard is only as good as its readability and the story it tells at first glance.
+## The Stack
+* **Tool:** Microsoft Excel
+* **Visuals:** Pie-in-Pie charts for mortality, Dual-series Bar Charts for growth trends, and KPI Summaries.
+* **Design:** High-contrast Maroon & White theme for maximum readability of critical stats.
 
 ---
 
