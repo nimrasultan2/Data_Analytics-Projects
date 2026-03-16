@@ -1,11 +1,13 @@
  # 📊 Data Analytics Portfolio
 ### Turning Raw Data into Digital Narratives
 
+### I am a Data Analyst focused on the intersection of **technical logic** and **clean aesthetics**. This repository is a curated collection of my work, spanning retail, public health, social impact, and consumer behavior.
 Welcome to my data analytics repository. This space is a curated collection of projects where **logic meets aesthetics**. I specialize in distilling messy, real-world datasets—from retail trends to global health crises—into clean, high-impact visual stories.
 
 ---
 
 > **The Vibe:** Data-driven, aesthetic-obsessed, and focused on Visualizing. The goal was high-impact storytelling through data. No fluff, just insights.
+> > **The Philosophy:** Data is just noise until it’s visualized with intent.
 
 ---
 
@@ -16,15 +18,16 @@ I use a mix of industry-standard tools and modern environments to clean, analyze
 
 ---
 
-##  Project Roadmap
+## Project Showcase
 
-| Project | Industry | Status |
-| :--- | :--- | :--- |
-| **Sales Analysis Report** | Retail & E-commerce | Completed |
-| **Students Food Prefrences Report** | Consumer Behavior | Completed |
-| **Ramadan Charity Analysis Report** | Social Impact | Completed |
-| **COVID-19 Death Report** | Public Health | Completed |
+| Project | Industry | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**METRO Sales Analysis Report**](./01_Superstore_Sales) | Retail | PowerBI, UI/UX | Complete |
+| [**Student's Eating Habits Report**](./02_Student_Food_Preferences) | Education | PowerBI, Behavioral | Complete |
+| [**Ramadan Charity Analysis Report**](./03_Ramadan_Charity_Analysis) | Social Impact | PowerBI, Global |  Complete |
+| [**COVID-19 Global Health Report**](./04_COVID19_Global_Trends) | Health | Excel, Stats |  Complete |
 
+---
 ---
 
 ## The Aesthetic
