@@ -26,6 +26,7 @@ I use a mix of industry-standard tools and modern environments to clean, analyze
 | [**Student's Eating Habits Report**](./02_Student_Food_Preferences) | Education | PowerBI, Behavioral | Complete |
 | [**Ramadan Charity Analysis Report**](./03_Ramadan_Charity_Analysis) | Social Impact | PowerBI, Global |  Complete |
 | [**COVID-19 Global Health Report**](./04_COVID19_Global_Trends) | Health | Excel, Stats |  Complete |
+| [**Defense Contracts Analysis Report**](./05_Defense_Contracts_Analysis) | Defense & Geopolitics | Python, SQL Server, Power BI | Complete |
 
 ---
 ---
